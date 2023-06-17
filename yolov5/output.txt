@@ -1,0 +1,1567 @@
+D:\LIU\CENG695B\yolov5-fire-detection
+Loading weights:  D:\LIU\CENG695B\yolov5-fire-detection\midas_v21_small_256.pt
+Model loaded, number of parameters = 21M
+Reference Points:
+[[       1696         243        4.25]
+ [        122         403         3.6]
+ [       1305         589           4]
+ [        964         571        3.92]
+ [        623         579        3.97]
+ [       1238         352        4.92]
+ [        686         340         4.9]
+ [        594         338           5]
+ [       1918         447        3.58]
+ [        947         453        4.05]
+ [       1072          62           5]
+ [        468         660         3.8]]
+Email Addresses:
+91830054@students.liu.edu.lb
+midas
+Inference Time: 0.05795884132385254 seconds
+-0.0046409555944621405
+5.100670235569162
+Email sent successfully!
+midas
+Inference Time: 0.2068159580230713 seconds
+detected
+2
+midas
+Inference Time: 0.05399513244628906 seconds
+detected
+3
+midas
+Inference Time: 0.08699822425842285 seconds
+detected
+4
+midas
+Inference Time: 0.05100083351135254 seconds
+detected
+5
+midas
+Inference Time: 0.05103492736816406 seconds
+detected
+6
+midas
+Inference Time: 0.08099818229675293 seconds
+detected
+7
+midas
+Inference Time: 0.10399913787841797 seconds
+detected
+8
+midas
+Inference Time: 0.05499839782714844 seconds
+detected
+9
+midas
+Inference Time: 0.0639960765838623 seconds
+detected
+10
+midas
+Inference Time: 0.04999876022338867 seconds
+detected
+11
+midas
+Inference Time: 0.09803223609924316 seconds
+detected
+12
+midas
+Inference Time: 0.09100341796875 seconds
+detected
+13
+midas
+Inference Time: 0.09799528121948242 seconds
+detected
+14
+midas
+Inference Time: 0.10458898544311523 seconds
+detected
+15
+midas
+Inference Time: 0.10203886032104492 seconds
+detected
+16
+midas
+Inference Time: 0.10103750228881836 seconds
+detected
+17
+midas
+Inference Time: 0.05499720573425293 seconds
+detected
+18
+midas
+Inference Time: 0.055999755859375 seconds
+detected
+19
+midas
+Inference Time: 0.05655932426452637 seconds
+detected
+20
+midas
+Inference Time: 0.10001111030578613 seconds
+detected
+21
+midas
+Inference Time: 0.060033559799194336 seconds
+detected
+22
+midas
+Inference Time: 0.05500292778015137 seconds
+detected
+23
+midas
+Inference Time: 0.06399798393249512 seconds
+detected
+24
+midas
+Inference Time: 0.05000567436218262 seconds
+detected
+25
+midas
+Inference Time: 0.062036752700805664 seconds
+detected
+26
+midas
+Inference Time: 0.05599832534790039 seconds
+detected
+27
+midas
+Inference Time: 0.0579679012298584 seconds
+detected
+28
+midas
+Inference Time: 0.0500035285949707 seconds
+detected
+29
+midas
+Inference Time: 0.05495285987854004 seconds
+detected
+30
+midas
+Inference Time: 0.05601906776428223 seconds
+detected
+31
+midas
+Inference Time: 0.1029973030090332 seconds
+detected
+32
+midas
+Inference Time: 0.056000709533691406 seconds
+detected
+33
+midas
+Inference Time: 0.04999732971191406 seconds
+detected
+34
+midas
+Inference Time: 0.05300474166870117 seconds
+detected
+35
+midas
+Inference Time: 0.09799742698669434 seconds
+detected
+36
+midas
+Inference Time: 0.05899977684020996 seconds
+detected
+37
+midas
+Inference Time: 0.051035165786743164 seconds
+detected
+38
+midas
+Inference Time: 0.08403253555297852 seconds
+detected
+39
+midas
+Inference Time: 0.05603933334350586 seconds
+detected
+40
+midas
+Inference Time: 0.050995826721191406 seconds
+detected
+41
+midas
+Inference Time: 0.06200146675109863 seconds
+detected
+42
+midas
+Inference Time: 0.06100606918334961 seconds
+detected
+43
+midas
+Inference Time: 0.05099940299987793 seconds
+detected
+44
+midas
+Inference Time: 0.1009969711303711 seconds
+detected
+45
+midas
+Inference Time: 0.06203460693359375 seconds
+detected
+46
+midas
+Inference Time: 0.050995588302612305 seconds
+detected
+47
+midas
+Inference Time: 0.049997568130493164 seconds
+detected
+48
+midas
+Inference Time: 0.05100584030151367 seconds
+detected
+49
+midas
+Inference Time: 0.10403084754943848 seconds
+detected
+50
+midas
+Inference Time: 0.05600595474243164 seconds
+detected
+51
+midas
+Inference Time: 0.05003619194030762 seconds
+detected
+52
+midas
+Inference Time: 0.052077531814575195 seconds
+detected
+53
+midas
+Inference Time: 0.05800342559814453 seconds
+detected
+54
+midas
+Inference Time: 0.09496140480041504 seconds
+detected
+55
+midas
+Inference Time: 0.10300159454345703 seconds
+detected
+56
+midas
+Inference Time: 0.05603384971618652 seconds
+detected
+57
+midas
+Inference Time: 0.09842920303344727 seconds
+detected
+58
+midas
+Inference Time: 0.10403585433959961 seconds
+detected
+59
+midas
+Inference Time: 0.08397269248962402 seconds
+detected
+60
+midas
+Inference Time: 0.06903839111328125 seconds
+detected
+61
+midas
+Inference Time: 0.07904243469238281 seconds
+detected
+62
+midas
+Inference Time: 0.07356810569763184 seconds
+detected
+63
+midas
+Inference Time: 0.060988426208496094 seconds
+detected
+64
+midas
+Inference Time: 0.1060028076171875 seconds
+detected
+65
+midas
+Inference Time: 0.06900310516357422 seconds
+detected
+66
+midas
+Inference Time: 0.05500006675720215 seconds
+detected
+67
+midas
+Inference Time: 0.05395174026489258 seconds
+detected
+68
+midas
+Inference Time: 0.05601620674133301 seconds
+detected
+69
+midas
+Inference Time: 0.06208181381225586 seconds
+detected
+70
+midas
+Inference Time: 0.07399940490722656 seconds
+detected
+71
+midas
+Inference Time: 0.09101629257202148 seconds
+detected
+72
+midas
+Inference Time: 0.07195472717285156 seconds
+detected
+73
+midas
+Inference Time: 0.06454825401306152 seconds
+detected
+74
+midas
+Inference Time: 0.05700325965881348 seconds
+detected
+75
+midas
+Inference Time: 0.054000139236450195 seconds
+detected
+76
+midas
+Inference Time: 0.10603857040405273 seconds
+detected
+77
+midas
+Inference Time: 0.06007671356201172 seconds
+detected
+78
+midas
+Inference Time: 0.05099749565124512 seconds
+detected
+79
+midas
+Inference Time: 0.09156250953674316 seconds
+detected
+80
+midas
+Inference Time: 0.07802748680114746 seconds
+detected
+81
+midas
+Inference Time: 0.05199790000915527 seconds
+detected
+82
+midas
+Inference Time: 0.10415983200073242 seconds
+detected
+83
+midas
+Inference Time: 0.06400012969970703 seconds
+detected
+84
+midas
+Inference Time: 0.09996438026428223 seconds
+detected
+85
+midas
+Inference Time: 0.05003499984741211 seconds
+detected
+86
+midas
+Inference Time: 0.0540156364440918 seconds
+detected
+87
+midas
+Inference Time: 0.09900903701782227 seconds
+detected
+88
+midas
+Inference Time: 0.05099940299987793 seconds
+detected
+89
+midas
+Inference Time: 0.10102224349975586 seconds
+detected
+90
+midas
+Inference Time: 0.05196666717529297 seconds
+detected
+91
+midas
+Inference Time: 0.10404586791992188 seconds
+detected
+92
+midas
+Inference Time: 0.051065683364868164 seconds
+detected
+93
+midas
+Inference Time: 0.09998464584350586 seconds
+detected
+94
+midas
+Inference Time: 0.05797219276428223 seconds
+detected
+95
+midas
+Inference Time: 0.06603264808654785 seconds
+detected
+96
+midas
+Inference Time: 0.05399942398071289 seconds
+detected
+97
+midas
+Inference Time: 0.05205035209655762 seconds
+detected
+98
+midas
+Inference Time: 0.10010647773742676 seconds
+detected
+99
+midas
+Inference Time: 0.05899667739868164 seconds
+detected
+100
+midas
+Inference Time: 0.06759023666381836 seconds
+detected
+101
+midas
+Inference Time: 0.05700063705444336 seconds
+detected
+102
+midas
+Inference Time: 0.10097098350524902 seconds
+detected
+103
+midas
+Inference Time: 0.05600166320800781 seconds
+detected
+104
+midas
+Inference Time: 0.07100057601928711 seconds
+detected
+105
+midas
+Inference Time: 0.09899663925170898 seconds
+detected
+106
+midas
+Inference Time: 0.05500006675720215 seconds
+detected
+107
+midas
+Inference Time: 0.06914234161376953 seconds
+detected
+108
+midas
+Inference Time: 0.06099843978881836 seconds
+detected
+109
+midas
+Inference Time: 0.06399774551391602 seconds
+detected
+110
+midas
+Inference Time: 0.06499552726745605 seconds
+detected
+111
+midas
+Inference Time: 0.05004310607910156 seconds
+detected
+112
+midas
+Inference Time: 0.0660860538482666 seconds
+detected
+113
+midas
+Inference Time: 0.053967952728271484 seconds
+detected
+114
+midas
+Inference Time: 0.09255814552307129 seconds
+detected
+115
+midas
+Inference Time: 0.05899667739868164 seconds
+detected
+116
+midas
+Inference Time: 0.1060335636138916 seconds
+detected
+117
+midas
+Inference Time: 0.051000118255615234 seconds
+detected
+118
+midas
+Inference Time: 0.05203104019165039 seconds
+detected
+119
+midas
+Inference Time: 0.05295968055725098 seconds
+detected
+120
+midas
+Inference Time: 0.1040048599243164 seconds
+detected
+121
+midas
+Inference Time: 0.0555424690246582 seconds
+detected
+122
+midas
+Inference Time: 0.0549771785736084 seconds
+detected
+123
+midas
+Inference Time: 0.0840001106262207 seconds
+detected
+124
+midas
+Inference Time: 0.05150556564331055 seconds
+detected
+125
+midas
+Inference Time: 0.09300017356872559 seconds
+detected
+126
+midas
+Inference Time: 0.05195975303649902 seconds
+detected
+127
+midas
+Inference Time: 0.09604048728942871 seconds
+detected
+128
+midas
+Inference Time: 0.058040618896484375 seconds
+detected
+129
+midas
+Inference Time: 0.05600738525390625 seconds
+detected
+130
+midas
+Inference Time: 0.057029008865356445 seconds
+detected
+131
+midas
+Inference Time: 0.059053897857666016 seconds
+detected
+132
+midas
+Inference Time: 0.10180807113647461 seconds
+detected
+133
+midas
+Inference Time: 0.10603117942810059 seconds
+detected
+134
+midas
+Inference Time: 0.0584721565246582 seconds
+detected
+135
+midas
+Inference Time: 0.10595703125 seconds
+detected
+136
+midas
+Inference Time: 0.056989431381225586 seconds
+detected
+137
+midas
+Inference Time: 0.0834805965423584 seconds
+detected
+138
+midas
+Inference Time: 0.10602951049804688 seconds
+detected
+139
+midas
+Inference Time: 0.06202864646911621 seconds
+detected
+140
+midas
+Inference Time: 0.05253100395202637 seconds
+detected
+141
+midas
+Inference Time: 0.26404643058776855 seconds
+detected
+142
+midas
+Inference Time: 0.05199623107910156 seconds
+detected
+143
+midas
+Inference Time: 0.10065340995788574 seconds
+detected
+144
+midas
+Inference Time: 0.05603766441345215 seconds
+detected
+145
+midas
+Inference Time: 0.07352590560913086 seconds
+detected
+146
+midas
+Inference Time: 0.06700253486633301 seconds
+detected
+147
+midas
+Inference Time: 0.0729987621307373 seconds
+detected
+148
+midas
+Inference Time: 0.10199785232543945 seconds
+detected
+149
+midas
+Inference Time: 0.06800508499145508 seconds
+detected
+150
+midas
+Inference Time: 0.07303357124328613 seconds
+detected
+151
+midas
+Inference Time: 0.09896230697631836 seconds
+detected
+152
+midas
+Inference Time: 0.06852316856384277 seconds
+detected
+153
+midas
+Inference Time: 0.10352182388305664 seconds
+detected
+154
+midas
+Inference Time: 0.10659050941467285 seconds
+detected
+155
+midas
+Inference Time: 0.061003923416137695 seconds
+detected
+156
+midas
+Inference Time: 0.10599732398986816 seconds
+detected
+157
+midas
+Inference Time: 0.05902719497680664 seconds
+detected
+158
+midas
+Inference Time: 0.10301804542541504 seconds
+detected
+159
+midas
+Inference Time: 0.05896258354187012 seconds
+detected
+160
+midas
+Inference Time: 0.0549921989440918 seconds
+detected
+161
+midas
+Inference Time: 0.10200023651123047 seconds
+detected
+162
+midas
+Inference Time: 0.06103873252868652 seconds
+detected
+163
+midas
+Inference Time: 0.0741567611694336 seconds
+detected
+164
+midas
+Inference Time: 0.05768537521362305 seconds
+detected
+165
+midas
+Inference Time: 0.10703277587890625 seconds
+detected
+166
+midas
+Inference Time: 0.08500003814697266 seconds
+detected
+167
+midas
+Inference Time: 0.0695197582244873 seconds
+detected
+168
+midas
+Inference Time: 0.06055927276611328 seconds
+detected
+169
+midas
+Inference Time: 0.06899595260620117 seconds
+detected
+170
+midas
+Inference Time: 0.0839991569519043 seconds
+detected
+171
+midas
+Inference Time: 0.10740351676940918 seconds
+detected
+172
+midas
+Inference Time: 0.1020205020904541 seconds
+detected
+173
+midas
+Inference Time: 0.060044050216674805 seconds
+detected
+174
+midas
+Inference Time: 0.052037715911865234 seconds
+detected
+175
+midas
+Inference Time: 0.09660124778747559 seconds
+detected
+176
+midas
+Inference Time: 0.06599760055541992 seconds
+detected
+177
+midas
+Inference Time: 0.10201740264892578 seconds
+detected
+178
+midas
+Inference Time: 0.07504653930664062 seconds
+detected
+179
+midas
+Inference Time: 0.0630338191986084 seconds
+detected
+180
+midas
+Inference Time: 0.06300663948059082 seconds
+detected
+181
+midas
+Inference Time: 0.10458803176879883 seconds
+detected
+182
+midas
+Inference Time: 0.060012102127075195 seconds
+detected
+183
+midas
+Inference Time: 0.06201982498168945 seconds
+detected
+184
+midas
+Inference Time: 0.06799936294555664 seconds
+detected
+185
+midas
+Inference Time: 0.10399460792541504 seconds
+detected
+186
+midas
+Inference Time: 0.10399556159973145 seconds
+detected
+187
+midas
+Inference Time: 0.06679081916809082 seconds
+detected
+188
+midas
+Inference Time: 0.05300140380859375 seconds
+detected
+189
+midas
+Inference Time: 0.0659947395324707 seconds
+detected
+190
+midas
+Inference Time: 0.1080007553100586 seconds
+detected
+191
+midas
+Inference Time: 0.10799384117126465 seconds
+detected
+192
+midas
+Inference Time: 0.057997941970825195 seconds
+detected
+193
+midas
+Inference Time: 0.05600094795227051 seconds
+detected
+194
+midas
+Inference Time: 0.04999876022338867 seconds
+detected
+195
+midas
+Inference Time: 0.051000118255615234 seconds
+detected
+196
+midas
+Inference Time: 0.10199928283691406 seconds
+detected
+197
+midas
+Inference Time: 0.04999589920043945 seconds
+detected
+198
+midas
+Inference Time: 0.04994797706604004 seconds
+detected
+199
+midas
+Inference Time: 0.04997539520263672 seconds
+detected
+200
+midas
+Inference Time: 0.06500029563903809 seconds
+detected
+201
+midas
+Inference Time: 0.05699777603149414 seconds
+detected
+202
+midas
+Inference Time: 0.05103468894958496 seconds
+detected
+203
+midas
+Inference Time: 0.1010427474975586 seconds
+detected
+204
+midas
+Inference Time: 0.05400490760803223 seconds
+detected
+205
+midas
+Inference Time: 0.05700063705444336 seconds
+detected
+206
+midas
+Inference Time: 0.052001237869262695 seconds
+detected
+207
+midas
+Inference Time: 0.05503535270690918 seconds
+detected
+208
+midas
+Inference Time: 0.10099387168884277 seconds
+detected
+209
+midas
+Inference Time: 0.060997724533081055 seconds
+detected
+210
+midas
+Inference Time: 0.06299066543579102 seconds
+detected
+211
+midas
+Inference Time: 0.09401655197143555 seconds
+detected
+212
+midas
+Inference Time: 0.10202336311340332 seconds
+detected
+213
+midas
+Inference Time: 0.08400392532348633 seconds
+detected
+214
+midas
+Inference Time: 0.10400986671447754 seconds
+detected
+215
+midas
+Inference Time: 0.09099912643432617 seconds
+detected
+216
+midas
+Inference Time: 0.12500953674316406 seconds
+detected
+217
+midas
+Inference Time: 0.2611713409423828 seconds
+detected
+218
+midas
+Inference Time: 0.06679177284240723 seconds
+detected
+219
+midas
+Inference Time: 0.07504010200500488 seconds
+detected
+220
+midas
+Inference Time: 0.07114195823669434 seconds
+detected
+221
+midas
+Inference Time: 0.06800031661987305 seconds
+detected
+222
+midas
+Inference Time: 0.05399918556213379 seconds
+detected
+223
+midas
+Inference Time: 0.06287026405334473 seconds
+detected
+224
+midas
+Inference Time: 0.08404135704040527 seconds
+detected
+225
+midas
+Inference Time: 0.05996966361999512 seconds
+detected
+226
+midas
+Inference Time: 0.05801081657409668 seconds
+detected
+227
+midas
+Inference Time: 0.10176658630371094 seconds
+detected
+228
+midas
+Inference Time: 0.0510249137878418 seconds
+detected
+229
+midas
+Inference Time: 0.05896711349487305 seconds
+detected
+230
+midas
+Inference Time: 0.056999921798706055 seconds
+detected
+231
+midas
+Inference Time: 0.05805635452270508 seconds
+detected
+232
+midas
+Inference Time: 0.08203864097595215 seconds
+detected
+233
+midas
+Inference Time: 0.10103440284729004 seconds
+detected
+234
+midas
+Inference Time: 0.05003070831298828 seconds
+detected
+235
+midas
+Inference Time: 0.0970008373260498 seconds
+detected
+236
+midas
+Inference Time: 0.05003499984741211 seconds
+detected
+237
+midas
+Inference Time: 0.0670011043548584 seconds
+detected
+238
+midas
+Inference Time: 0.06100320816040039 seconds
+detected
+239
+midas
+Inference Time: 0.0529937744140625 seconds
+detected
+240
+midas
+Inference Time: 0.0989983081817627 seconds
+detected
+241
+midas
+Inference Time: 0.059967994689941406 seconds
+detected
+242
+midas
+Inference Time: 0.09900307655334473 seconds
+detected
+243
+midas
+Inference Time: 0.05800127983093262 seconds
+detected
+244
+midas
+Inference Time: 0.05398988723754883 seconds
+detected
+245
+midas
+Inference Time: 0.10293126106262207 seconds
+detected
+246
+midas
+Inference Time: 0.0530238151550293 seconds
+detected
+247
+midas
+Inference Time: 0.07898664474487305 seconds
+detected
+248
+midas
+Inference Time: 0.06595897674560547 seconds
+detected
+249
+midas
+Inference Time: 0.10206341743469238 seconds
+detected
+250
+midas
+Inference Time: 0.10181832313537598 seconds
+detected
+251
+midas
+Inference Time: 0.06096673011779785 seconds
+detected
+252
+midas
+Inference Time: 0.0754544734954834 seconds
+detected
+253
+midas
+Inference Time: 0.05502176284790039 seconds
+detected
+254
+midas
+Inference Time: 0.07396888732910156 seconds
+detected
+255
+midas
+Inference Time: 0.09899544715881348 seconds
+detected
+256
+midas
+Inference Time: 0.059000492095947266 seconds
+detected
+257
+midas
+Inference Time: 0.1009976863861084 seconds
+detected
+258
+midas
+Inference Time: 0.050997018814086914 seconds
+detected
+259
+midas
+Inference Time: 0.07300114631652832 seconds
+detected
+260
+midas
+Inference Time: 0.06096506118774414 seconds
+detected
+261
+midas
+Inference Time: 0.05600285530090332 seconds
+detected
+262
+midas
+Inference Time: 0.05800318717956543 seconds
+detected
+263
+midas
+Inference Time: 0.05096721649169922 seconds
+detected
+264
+midas
+Inference Time: 0.054001808166503906 seconds
+detected
+265
+midas
+Inference Time: 0.09699749946594238 seconds
+detected
+266
+midas
+Inference Time: 0.06399941444396973 seconds
+detected
+267
+midas
+Inference Time: 0.05205106735229492 seconds
+detected
+268
+midas
+Inference Time: 0.05700182914733887 seconds
+detected
+269
+midas
+Inference Time: 0.10399341583251953 seconds
+detected
+270
+midas
+Inference Time: 0.12999796867370605 seconds
+detected
+271
+midas
+Inference Time: 0.28899693489074707 seconds
+detected
+272
+midas
+Inference Time: 0.27199530601501465 seconds
+detected
+273
+midas
+Inference Time: 0.0839996337890625 seconds
+detected
+274
+midas
+Inference Time: 0.1100306510925293 seconds
+detected
+275
+midas
+Inference Time: 0.09800243377685547 seconds
+detected
+276
+midas
+Inference Time: 0.11699938774108887 seconds
+detected
+277
+midas
+Inference Time: 0.11100625991821289 seconds
+detected
+278
+midas
+Inference Time: 0.15799903869628906 seconds
+detected
+279
+midas
+Inference Time: 0.09600186347961426 seconds
+detected
+280
+midas
+Inference Time: 0.09299898147583008 seconds
+detected
+281
+midas
+Inference Time: 0.05299806594848633 seconds
+detected
+282
+midas
+Inference Time: 0.04999494552612305 seconds
+detected
+283
+midas
+Inference Time: 0.09200024604797363 seconds
+detected
+284
+midas
+Inference Time: 0.050028324127197266 seconds
+detected
+285
+midas
+Inference Time: 0.05100083351135254 seconds
+detected
+286
+midas
+Inference Time: 0.10100221633911133 seconds
+detected
+287
+midas
+Inference Time: 0.05099344253540039 seconds
+detected
+288
+midas
+Inference Time: 0.04996347427368164 seconds
+detected
+289
+midas
+Inference Time: 0.05003046989440918 seconds
+detected
+290
+midas
+Inference Time: 0.050966501235961914 seconds
+detected
+291
+midas
+Inference Time: 0.07703447341918945 seconds
+detected
+292
+midas
+Inference Time: 0.04999589920043945 seconds
+detected
+293
+midas
+Inference Time: 0.05099916458129883 seconds
+detected
+294
+midas
+Inference Time: 0.09997797012329102 seconds
+detected
+295
+midas
+Inference Time: 0.07003402709960938 seconds
+detected
+296
+midas
+Inference Time: 0.05003643035888672 seconds
+detected
+297
+midas
+Inference Time: 0.0520322322845459 seconds
+detected
+298
+midas
+Inference Time: 0.059000253677368164 seconds
+detected
+299
+midas
+Inference Time: 0.05003046989440918 seconds
+detected
+300
+midas
+Inference Time: 0.04999113082885742 seconds
+detected
+301
+midas
+Inference Time: 0.09999680519104004 seconds
+detected
+302
+midas
+Inference Time: 0.0609889030456543 seconds
+detected
+303
+midas
+Inference Time: 0.05099773406982422 seconds
+detected
+304
+midas
+Inference Time: 0.0500333309173584 seconds
+detected
+305
+midas
+Inference Time: 0.05899190902709961 seconds
+detected
+306
+midas
+Inference Time: 0.06698870658874512 seconds
+detected
+307
+midas
+Inference Time: 0.09598994255065918 seconds
+detected
+308
+midas
+Inference Time: 0.049997568130493164 seconds
+detected
+309
+midas
+Inference Time: 0.10201859474182129 seconds
+detected
+310
+midas
+Inference Time: 0.05099844932556152 seconds
+detected
+311
+midas
+Inference Time: 0.0999898910522461 seconds
+detected
+312
+midas
+Inference Time: 0.06499695777893066 seconds
+detected
+313
+midas
+Inference Time: 0.05900120735168457 seconds
+detected
+314
+midas
+Inference Time: 0.09699606895446777 seconds
+detected
+315
+midas
+Inference Time: 0.05799531936645508 seconds
+detected
+316
+midas
+Inference Time: 0.051000118255615234 seconds
+detected
+317
+midas
+Inference Time: 0.06999659538269043 seconds
+detected
+318
+midas
+Inference Time: 0.10184884071350098 seconds
+detected
+319
+midas
+Inference Time: 0.05096888542175293 seconds
+detected
+320
+midas
+Inference Time: 0.05003690719604492 seconds
+detected
+321
+midas
+Inference Time: 0.05002737045288086 seconds
+detected
+322
+midas
+Inference Time: 0.05252504348754883 seconds
+detected
+323
+midas
+Inference Time: 0.05103564262390137 seconds
+detected
+324
+midas
+Inference Time: 0.0509951114654541 seconds
+detected
+325
+midas
+Inference Time: 0.050998687744140625 seconds
+detected
+326
+midas
+Inference Time: 0.06902956962585449 seconds
+detected
+327
+midas
+Inference Time: 0.06499528884887695 seconds
+detected
+328
+midas
+Inference Time: 0.05096602439880371 seconds
+detected
+329
+midas
+Inference Time: 0.05196857452392578 seconds
+detected
+330
+midas
+Inference Time: 0.05803394317626953 seconds
+detected
+331
+midas
+Inference Time: 0.04999971389770508 seconds
+detected
+332
+midas
+Inference Time: 0.09999656677246094 seconds
+detected
+333
+midas
+Inference Time: 0.05002927780151367 seconds
+detected
+334
+midas
+Inference Time: 0.17900323867797852 seconds
+detected
+335
+midas
+Inference Time: 0.05003070831298828 seconds
+detected
+336
+midas
+Inference Time: 0.057007789611816406 seconds
+detected
+337
+midas
+Inference Time: 0.05105185508728027 seconds
+detected
+338
+midas
+Inference Time: 0.09800076484680176 seconds
+detected
+339
+midas
+Inference Time: 0.09096360206604004 seconds
+detected
+340
+midas
+Inference Time: 0.05096840858459473 seconds
+detected
+341
+midas
+Inference Time: 0.050995588302612305 seconds
+detected
+342
+midas
+Inference Time: 0.06799674034118652 seconds
+detected
+343
+midas
+Inference Time: 0.06196999549865723 seconds
+detected
+344
+midas
+Inference Time: 0.08403182029724121 seconds
+detected
+345
+midas
+Inference Time: 0.07904911041259766 seconds
+detected
+346
+midas
+Inference Time: 0.04999852180480957 seconds
+detected
+347
+midas
+Inference Time: 0.09900069236755371 seconds
+detected
+348
+midas
+Inference Time: 0.05299496650695801 seconds
+detected
+349
+midas
+Inference Time: 0.09799909591674805 seconds
+detected
+350
+midas
+Inference Time: 0.04996609687805176 seconds
+detected
+351
+midas
+Inference Time: 0.06299567222595215 seconds
+detected
+352
+midas
+Inference Time: 0.1009986400604248 seconds
+detected
+353
+midas
+Inference Time: 0.06099724769592285 seconds
+detected
+354
+midas
+Inference Time: 0.04999375343322754 seconds
+detected
+355
+midas
+Inference Time: 0.05003619194030762 seconds
+detected
+356
+midas
+Inference Time: 0.04998612403869629 seconds
+detected
+357
+midas
+Inference Time: 0.05099821090698242 seconds
+detected
+358
+midas
+Inference Time: 0.09900379180908203 seconds
+detected
+359
+midas
+Inference Time: 0.05403447151184082 seconds
+detected
+360
+midas
+Inference Time: 0.0980381965637207 seconds
+detected
+361
+midas
+Inference Time: 0.051033735275268555 seconds
+detected
+362
+midas
+Inference Time: 0.05199837684631348 seconds
+detected
+363
+midas
+Inference Time: 0.05399966239929199 seconds
+detected
+364
+midas
+Inference Time: 0.05304074287414551 seconds
+detected
+365
+midas
+Inference Time: 0.04999828338623047 seconds
+detected
+366
+midas
+Inference Time: 0.10096454620361328 seconds
+detected
+367
+midas
+Inference Time: 0.10000324249267578 seconds
+detected
+368
+midas
+Inference Time: 0.058960676193237305 seconds
+detected
+369
+midas
+Inference Time: 0.05999469757080078 seconds
+detected
+370
+midas
+Inference Time: 0.052997589111328125 seconds
+detected
+371
+midas
+Inference Time: 0.054001569747924805 seconds
+detected
+372
+midas
+Inference Time: 0.06299781799316406 seconds
+detected
+373
+midas
+Inference Time: 0.10097479820251465 seconds
+detected
+374
+midas
+Inference Time: 0.050008296966552734 seconds
+detected
+375
+midas
+Inference Time: 0.05298900604248047 seconds
+detected
+376
+midas
+Inference Time: 0.04999828338623047 seconds
+detected
+377
+midas
+Inference Time: 0.049997806549072266 seconds
+detected
+378
+midas
+Inference Time: 0.10103440284729004 seconds
+detected
+379
+midas
+Inference Time: 0.05697154998779297 seconds
+detected
+380
+midas
+Inference Time: 0.04903101921081543 seconds
+detected
+381
+midas
+Inference Time: 0.05099773406982422 seconds
+detected
+382
+midas
+Inference Time: 0.059961557388305664 seconds
+detected
+383
+midas
+Inference Time: 0.05099940299987793 seconds
+detected
+384
+midas
+Inference Time: 0.06499934196472168 seconds
+detected
+385
+midas
+Inference Time: 0.09999847412109375 seconds
+detected
+386
+midas
+Inference Time: 0.05795598030090332 seconds
+detected
+387
