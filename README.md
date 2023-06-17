@@ -18,3 +18,4 @@ Check requirements for general requirements. Addittionally check yolov5 and MiDa
 For extra help you can check the README of Yolov5 and Midas.
 
 To run the code use the FireD&L.ipynb
+To change the refrence points you can use the UI in FireD&L.ipynb, make sure you have the RefrencePoints.txt file in /yolov5 folder.
