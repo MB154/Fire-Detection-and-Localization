@@ -15,6 +15,6 @@ https://github.com/isl-org/MiDaS/releases/download/v2_1/midas_v21_small_256.pt
 
 For requirements:
 Check requirements for general requirements. Addittionally check yolov5 and MiDaS requirements provided.
-for extra help you can check the README of Yolov5 and Midas.
+For extra help you can check the README of Yolov5 and Midas.
 
 To run the code use the FireD&L.ipynb
