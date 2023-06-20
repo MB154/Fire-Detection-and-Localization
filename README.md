@@ -9,7 +9,7 @@ Clone this repo
 
 Yolov5 Fire detection model is provided in models
 To download the Midas Models use the following links:
-For the dpt_beit_large_512: https://github.com/islorg/MiDaS/releases/download/v3_1/dpt_beit_large_512.pt
+For the dpt_beit_large_512: (https://github.com/isl-org/MiDaS/releases/download/v3_1/dpt_beit_large_512.pt)
 For the midas_v21_small_256:
 https://github.com/isl-org/MiDaS/releases/download/v2_1/midas_v21_small_256.pt
 
