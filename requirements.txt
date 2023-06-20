@@ -1,0 +1,19 @@
+  - nvidia::cudatoolkit=11.8
+  - python=3.10.8
+  - pytorch::pytorch=1.13.1
+  - torchvision=0.14.1
+  - pip=22.3.1
+  - numpy=1.23.5
+  - pip:
+  - opencv-python==4.6.0.66
+  - timm==0.6.13
+  - gitpython>=3.1.31
+  - matplotlib>=3.3
+  - Pillow>=9.3.0
+  - psutil  # system resources
+  - PyYAML>=6.0
+  - requests>=2.23.0
+  - scipy>=1.10.0			
+  - torch>=1.13.1  # see https://pytorch.org/get-started/locally (recommended)
+  - tqdm>=4.64.1
+		
