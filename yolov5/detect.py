@@ -1,4 +1,6 @@
 # YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# MiDaS by isl_org
+# Fire detection and distance estimation by MB154
 """
 Run YOLOv5 detection inference on images, videos, directories, globs, YouTube, webcam, streams, etc.
 
@@ -14,7 +16,7 @@ Usage - sources:
                                                      'https://youtu.be/Zgi9g1ksQHc'  # YouTube
                                                      'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 
-Usage - formats:
+Fire Detection - Usage - formats:
     $ python detect.py --weights yolov5s.pt                 # PyTorch
                                  yolov5s.torchscript        # TorchScript
                                  yolov5s.onnx               # ONNX Runtime or OpenCV DNN with --dnn
@@ -76,7 +78,6 @@ device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 depth_image=None
 counter = 0
 Stop_run=False
-#xy=[]
 S=None
 Depth = 0
 depth_map= None
@@ -153,7 +154,7 @@ def run(
         dnn=False,  # use OpenCV DNN for ONNX inference
         vid_stride=1,  # video frame-rate stride
         midas_model= 0, #choose midas model
-        alpha=1, #
+        alpha=1, 
         timer=0,
         
 ):
@@ -207,7 +208,7 @@ def run(
         )
    
     # File path to read points from
-    points_file = "Refrence_points.txt"
+    points_file = "Reference_points.txt"
     # Initialize lists to store reference points and email addresses
     global points,email_addresses
     points = []
@@ -357,8 +358,6 @@ def run(
             fps_vid = 1/(new_frame_time-prev_frame_time)
             prev_frame_time = new_frame_time
 
-            
-             
             if len(det):
                 # Rescale boxes from img_size to im0 size
                 det[:, :4] = scale_boxes(im.shape[2:], det[:, :4], im0.shape).round()
@@ -373,15 +372,12 @@ def run(
                 # Write results
                 for *xyxy, conf, cls in reversed(det):
                     detected=True
-                    #global xy
-                    #xy=xyxy
                     if midas_model != 0:
                         t1,t2,t3,t4 = xyxy
                         t1old,t2old,t3old,t4old = old_xyxy
                         tmid=(t1+t3)/2
                         tmidold=(t1old+t3old)/2
-                        if tmid >(tmidold+90) or tmid<(tmidold-90):
-                            print(xyxy[0])
+                        if tmid >(tmidold+100) or tmid<(tmidold-100):
                             old_xyxy=xyxy
                             run_midas(depth_image)
                     else:
@@ -428,7 +424,7 @@ def run(
                 fps_vid = str(fps_vid)
                 im1=im0.copy()
                 cv2.putText(im0, fps_vid, (7, 70), cv2.FONT_HERSHEY_SIMPLEX, 2, (100, 255, 0), 2, cv2.LINE_AA)
-                Depth1="Distance to Fire: " + str(round(Depth,2))+"m" #+str(((Depth-4.10)/4.10)*100)
+                Depth1="Distance to Fire: " + str(round(Depth,2))+"m"
                 cv2.putText(im0, Depth1, (7, 100), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 150), 2, cv2.LINE_AA)
                 #if centerx!=0:
                     #cv2.putText(im0, Depth1, (int(centerx), int(centery)), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 150), 2, cv2.LINE_AA)
@@ -474,11 +470,12 @@ def run(
     global Stop_run
     Stop_run=True   
     S.cancel()
+
 # Define run_midas()
 def run_midas(img):
     # MiDaS code
-    img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
-    input_batch = transform(img).to(device)
+    img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB) # convert to RGB colorspace
+    input_batch = transform(img).to(device) # preprocess and move image to device
 
     with torch.no_grad():
         start_time = time.time()
@@ -489,24 +486,20 @@ def run_midas(img):
             size=img.shape[:2],
             mode="bicubic",
             align_corners=False,
-        ).squeeze()
+        ).squeeze() # resize to original image size using bicubic interpolation
     
-    depth = prediction.cpu().numpy()
+    depth = prediction.cpu().numpy() # prediction transfered to CPU
     end_time = time.time()
     inference_time = end_time - start_time
-    #print("Inference Time:", inference_time, "seconds")
-    global depth_map #remove if not needed 
+    global depth_map 
     depth_map = depth
-    global counter
-    if counter== 0:
+    global counter 
+    if counter== 0:  
         newSNS= SNSCalc(depth)
         global scale,shift
         scale, shift = newSNS.x
-        #print(scale)
-        #print(shift)
         counter=counter+1
         return
-
 
     return depth   
 
@@ -552,7 +545,6 @@ def timer60():
             global counter
             counter = counter + 1
             run_midas(depth_image)
-            #print("detected")
             print(counter) 
         S.start()
     
